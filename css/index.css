@@ -1,0 +1,64 @@
+.rootBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.bootsCart {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.descriptionBox {
+    margin: 30px 25px;
+}
+
+.headerSignature {
+    font-size: 20px;
+}
+
+.iBox {
+    height: 40px;
+    width: 50px;
+    background-color: #4ED17B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #333333;
+}
+
+span, h2 {
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 15px;
+    color: #666666;
+
+}
+
+img {
+    height: 205px;
+    width: 100%;
+}
+
+i {
+    color: #FFFFFF;
+}
